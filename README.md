@@ -19,7 +19,7 @@ speed to be slow , moderate or fast , and weather.
 
 
 
-## Deployment
+## Setting up the Project:
 
 To deploy this project run
 
